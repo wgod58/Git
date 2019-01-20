@@ -14,5 +14,7 @@ git diff
 ```
 *useful website :* 
 
- **30 天精通 Git 版本控管** <br/>
- https://ithelp.ithome.com.tw/users/20004901/ironman/525
+ **30 天精通 Git 版本控管**<br/>
+ https://ithelp.ithome.com.tw/users/20004901/ironman/525<br/>
+ **Git 情境劇**<br/>
+ https://gogojimmy.net/2012/02/29/git-scenario/
